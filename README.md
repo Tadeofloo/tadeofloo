@@ -19,6 +19,6 @@ Currently, I am focused on deepening my knowledge of the cloud. I am particularl
 
 ---
 
-### ** Connect with Me**
+### Connect with Me
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/andres-pinal-9396ab240).
