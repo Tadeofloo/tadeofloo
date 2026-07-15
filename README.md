@@ -23,14 +23,8 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tadeofloo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+###  Connect with Me
 
----
-
-### 🌐 Connect with Me
-
-* **LinkedIn:** [Andrés Piñal](https://www.linkedin.com/in/andres-pinal-9396ab240)
+* **Linkedin:** [Andres Pinal](https://www.linkedin.com/in/andres-pinal-9396ab240)
+* **My portfolio:** (https://wonderful-wave-0f5dd151e.7.azurestaticapps.net)
