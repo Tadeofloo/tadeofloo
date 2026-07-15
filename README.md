@@ -1,24 +1,36 @@
-# Hi there! I'm Tadeo 
+### Hi there! I'm Tadeo 
 
-I'm an **Information Technology Security** student and I'm very interested in learning about the cloud, especially in areas like **DevOps** and **Cloud Architecture**.
+I'm an **Information Technology** student at UANL and a **Cloud Engineer Intern**, passionate about cloud infrastructure, automation, and DevOps practices. 
 
+---
 
-### Technical Skills
+###  Technical Skills
 
-Here are some of the technologies I use and am currently learning:
+Here are some of the technologies and tools I work with:
 
-* **Languages:** Python, Bash, PowerShell, R
+* **Cloud & Infrastructure:** Microsoft Azure, Terraform, Docker, Kubernetes, Linux , Windows Server
+* **Languages & Scripting:** Python, Bash, PowerShell, SQL, R
+* **Endpoint Management & Security:** Tanium, IT Systems Administration
 * **Databases:** MySQL
-* **Operating Systems:** Linux, WIndows
 
 ---
 
-###  What I'm Learning
+### What I'm Learning & Doing
 
-Currently, I am focused on deepening my knowledge of the cloud. I am particularly interested in learning how to automate cloud processes and become an expert in technical English to improve my professional skills.
+* Deepening my expertise in **Cloud Architecture** and Infrastructure as Code (IaC).
+* Automating administrative workflows and cloud deployments.
+* Exploring container orchestration and advanced CI/CD pipelines.
 
 ---
 
-### Connect with Me
+### 📊 GitHub Stats
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/andres-pinal-9396ab240).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tadeofloo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+* **LinkedIn:** [Andrés Piñal](https://www.linkedin.com/in/andres-pinal-9396ab240)
