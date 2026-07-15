@@ -27,4 +27,4 @@ Here are some of the technologies and tools I work with:
 ###  Connect with Me
 
 * **Linkedin:** [Andres Pinal](https://www.linkedin.com/in/andres-pinal-9396ab240)
-* **My portfolio:** (https://wonderful-wave-0f5dd151e.7.azurestaticapps.net)
+* **My portfolio:** [Portfolio](https://wonderful-wave-0f5dd151e.7.azurestaticapps.net)
